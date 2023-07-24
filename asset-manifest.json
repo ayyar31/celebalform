@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/celebalform/static/css/main.801c8373.css",
+    "main.js": "/celebalform/static/js/main.e83c463b.js",
+    "static/js/787.bc95e8fa.chunk.js": "/celebalform/static/js/787.bc95e8fa.chunk.js",
+    "static/media/plain.jpg": "/celebalform/static/media/plain.05eda5f78ac76e60b7a7.jpg",
+    "static/media/logo.svg": "/celebalform/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/celebalform/index.html",
+    "main.801c8373.css.map": "/celebalform/static/css/main.801c8373.css.map",
+    "main.e83c463b.js.map": "/celebalform/static/js/main.e83c463b.js.map",
+    "787.bc95e8fa.chunk.js.map": "/celebalform/static/js/787.bc95e8fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801c8373.css",
+    "static/js/main.e83c463b.js"
+  ]
+}
